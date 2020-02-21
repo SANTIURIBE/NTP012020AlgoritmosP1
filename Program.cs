@@ -30,7 +30,7 @@ namespace Taller20_02_2020
 
             Console.WriteLine("El total de nuemros menores es: " + numeromenor );
             Console.WriteLine("El total de nuemros mayores es: " + numerom);
-
+            /* comentario del proyecto punto 4*/
         }
     }
 }
